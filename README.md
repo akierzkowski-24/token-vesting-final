@@ -44,3 +44,7 @@ npx hardhat run scripts/deploy.ts --network sepolia
 
 ## Project Goals
 The goal was to move from data analysis and SQL into actual smart contract development during the Web3 Talents program. 
+
+## Proof on Sourcify
+The project is well and working:
+https://repo.sourcify.dev/11155111/0x8E6dbDcb96FF26EeaB811B787c06cA3B2D964f48
